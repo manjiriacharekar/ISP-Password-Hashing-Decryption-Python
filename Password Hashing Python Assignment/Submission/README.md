@@ -21,6 +21,7 @@ Attachments:
 *	linkedin.py
 *	linkedin_passwords.txt
 *	password_customlist.py
+
 Generates: password_custom.txt
 
 ## 3.	Password Dump: Formspring
@@ -33,6 +34,7 @@ Attachments:
 *	formspring.py
 *	formspring_passwords.txt
 *	password_customlist.py
+
 Generates: password_custom.txt
 
 ## 4.	Comparison of Techniques
